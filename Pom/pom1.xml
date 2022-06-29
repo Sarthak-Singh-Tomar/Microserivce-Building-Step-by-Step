@@ -18,7 +18,8 @@
       <spring.boot.maven.plugin.version>2.6.7</spring.boot.maven.plugin.version>
       <spring-boot-dependencies.version>2.6.7</spring-boot-dependencies.version>
   </properties>
-    <dependencyManagement>
+  
+  <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>org.springframework.boot</groupId>
@@ -28,7 +29,7 @@
                 <type>pom</type>
             </dependency>
         </dependencies>
-    </dependencyManagement>
+  </dependencyManagement>
 
   <dependencies>
       <dependency>
