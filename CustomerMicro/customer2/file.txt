@@ -1,0 +1,5 @@
+Updataion v1.1
+
+-> Added fraudCheckResponse
+-> Added CustomerResponse
+-> Changes in Customer Service for Microservice communication with RestTemplate
